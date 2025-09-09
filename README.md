@@ -1,2 +1,3 @@
 # game-10003-git-excercise2
-blah
+this is a small exercise to test out using Visual Studio and GitHub.
+
